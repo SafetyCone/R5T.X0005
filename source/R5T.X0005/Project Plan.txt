@@ -1,3 +1,10 @@
-R5T.X0005 - Extensions for Roslyn syntax functionality.
+R5T.X0005 - Extensions for Roslyn syntax functionality (non-generation).
 
-GOALS:
+* For generation, initial, simple functionality, see: R5T.F0004.
+* For generation, initial, parse, simple functionality, see: R5T.F0005.
+* For generation, initial, parse, functionality, see: R5T.F0006.
+
+
+Allowed dependencies:
+
+* R5T.F0003 - Roslyn syntax element functionality (non-generation).
